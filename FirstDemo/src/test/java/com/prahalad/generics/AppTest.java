@@ -27,6 +27,7 @@ public class AppTest
     
     {
     	System.out.println("need to tese these changes");
+    	System.out.println("Staged !!");
         return new TestSuite( AppTest.class );
     }
 
