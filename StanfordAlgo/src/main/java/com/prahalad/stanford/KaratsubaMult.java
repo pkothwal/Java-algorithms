@@ -15,7 +15,7 @@ public class KaratsubaMult {
 	
 	 public int katMult(Integer a1, Integer b1){
 		 
-		
+	
 		 aStr = a1.toString();
 		 bStr = b1.toString();
 		 
