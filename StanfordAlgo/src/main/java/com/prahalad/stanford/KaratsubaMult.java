@@ -19,6 +19,7 @@ public class KaratsubaMult {
 		 aStr = a1.toString();
 		 bStr = b1.toString();
 		 
+		 
 		 aLen = aStr.length();
 		 bLen = bStr.length();
 		 
